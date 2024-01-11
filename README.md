@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hellooo 👋
 
 - 🔭 I’m currently working on my Master's Thesis
 - 🌱 I’m currently learning applications of Machine Learning
 - 📫 How to reach me: swatibpsc99@gmail.com
+
 
 <!--
 **zhuatii/zhuatii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
