@@ -1,7 +1,7 @@
 ### Hellooo 👋
 
-- 🔭 I’m currently working on my Master's Thesis
 - 🌱 I’m currently learning applications of Machine Learning
+- 🚀 I'm currently looking for opportunities to contribute to AI projects in Biomedical domain
 - 📫 How to reach me: swatibpsc99@gmail.com
 
 
