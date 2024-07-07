@@ -1,7 +1,8 @@
 ### Hellooo 👋
 
-- 🌱 I’m currently learning applications of Machine Learning
-- 🚀 I'm currently looking for opportunities to contribute to AI projects in Biomedical domain
+- 🌱 I’m learning applications of Machine Learning and how to use different ML frameworks.
+- 💡 I am excited by the applications of ML/AI in biomedical engineering.
+- 🚀 I'm currently looking for full-time roles in the field of machine learning and data science.
 - 📫 How to reach me: swatibpsc99@gmail.com
 
 
