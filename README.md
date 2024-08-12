@@ -1,6 +1,6 @@
 ### Hellooo 👋
 
-- 🌱 I’m learning applications of Machine Learning and how to use different ML frameworks.
+- 🌱 I’m learning applications of Machine Learning and how to use different ML and DL frameworks.
 - 💡 I am excited by the applications of ML/AI in biomedical engineering.
 - 🚀 I'm currently looking for full-time roles in the field of machine learning and data science.
 - 📫 How to reach me: swatibpsc99@gmail.com
